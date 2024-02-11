@@ -137,15 +137,6 @@
   </url>
   
   <url>
-    <loc>https://blog.bsgun.cn/category/index.html</loc>
-    
-    <lastmod>2024-01-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.bsgun.cn/config/index.html</loc>
     
     <lastmod>2024-01-01</lastmod>
@@ -155,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://blog.bsgun.cn/mianze/index.html</loc>
+    <loc>https://blog.bsgun.cn/category/index.html</loc>
     
     <lastmod>2024-01-01</lastmod>
     
@@ -172,10 +163,19 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://blog.bsgun.cn/mianze/index.html</loc>
+    
+    <lastmod>2024-01-01</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>https://blog.bsgun.cn/</loc>
-    <lastmod>2024-01-31</lastmod>
+    <lastmod>2024-02-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
