@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /anzhiyu/
+Disallow: /js/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /fancybox/
+
+Sitemap: https://blog.bsgun.cn/sitemap.xml
+Sitemap: https://blog.bsgun.cn/baidusitemap.xml
