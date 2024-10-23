@@ -275,9 +275,9 @@
     <category term="教程" scheme="https://blog.bsgun.cn/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="hexo" scheme="https://blog.bsgun.cn/tags/hexo/"/>
-    
     <category term="宝塔" scheme="https://blog.bsgun.cn/tags/%E5%AE%9D%E5%A1%94/"/>
+    
+    <category term="hexo" scheme="https://blog.bsgun.cn/tags/hexo/"/>
     
     <category term="雨云服务器" scheme="https://blog.bsgun.cn/tags/%E9%9B%A8%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
