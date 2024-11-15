@@ -1,0 +1,2 @@
+const encodedDomains=["bG9jYWxob3N0","YmxvZy5ic2d1bi5jbg==","YmxvZy5ydW9tLnRvcA==","amxpbm1yLmdpdGh1Yi5pbw==","YmxvZy4xMTk5OTAueHl6"],decode=e=>atob(e),encodedRedirect="aHR0cHM6Ly9ibG9nLmJzZ3VuLmNu",allowedDomains=new Set(encodedDomains.map(decode));allowedDomains.has(document.domain)||(Snackbar.show({text:"检测到非法访问,即将返回原始站点",pos:"top-center",actionText:"确定",duration:5e3,onActionClick:()=>window.location.href=decode(encodedRedirect)}),setTimeout((()=>window.location.href=decode(encodedRedirect)),5e3));
+//# sourceMappingURL=../../maps/static/js/anti-mirror.js.map

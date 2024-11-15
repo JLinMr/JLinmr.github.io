@@ -1,0 +1,2 @@
+function initFooterAnimal(){const e=document.querySelector("#footer-bar");if(!e)return console.error("找不到指定元素");const n=document.createElement("div");n.id="footer-animal",n.innerHTML='\n        <img class="animal entered loaded" src="https://lib.bsgun.cn/2024/10/23/650426.webp"/>\n    ',e.insertAdjacentElement("beforebegin",n)}document.addEventListener("DOMContentLoaded",initFooterAnimal),document.addEventListener("pjax:success",initFooterAnimal);
+//# sourceMappingURL=../../maps/static/js/footer-animal.js.map
