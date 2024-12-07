@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.bsgun.cn/posts/ef58a648/</loc>
+    
+    <lastmod>2024-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.bsgun.cn/link/index.html</loc>
     
     <lastmod>2024-11-23</lastmod>
@@ -41,15 +50,6 @@
     <loc>https://blog.bsgun.cn/messages/index.html</loc>
     
     <lastmod>2024-11-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.bsgun.cn/posts/ef58a648/</loc>
-    
-    <lastmod>2024-11-03</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
